@@ -1,4 +1,4 @@
-Here’s a simple README for the pyexfil.py script:
+Here’s a simple README for the icmpexfil.py script:
 
 pyexfil.py
 
